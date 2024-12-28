@@ -2,7 +2,7 @@
 
 <div align=center>
 
-<h1>💡 My Stats & Most Used Languages 💡</h1>
+<h2>💡 My Stats & Most Used Languages 💡</h2>
 
 [![MeehyunByeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeehyunByeon)](https://github.com/MeehyunByeon/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeehyunByeon&layout=compact)](https://github.com/MeehyunByeon/github-readme-stats)
